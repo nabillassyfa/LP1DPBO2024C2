@@ -4,7 +4,7 @@ Aamiin
 
 ## Deskripsi Program :
 
-Program terdiri dari 4 bahasa yakni C++, JAVA, PYTHON, dan PHP. Dimana setiap program dapat melakukan CRUD (create, read, update, delete). 
+Desain program yang terdiri dari empat bahasa pemrograman (C++, Java, Python, dan PHP) dengan kemampuan CRUD (create, read, update, delete) pada masing-masing bahasa dapat menjalankan program secara terpisah, namun dengan kemampuan CRUD yang sama. 
 
 ## Alur Program :
 1. Menu Untuk menambahkan data<br>
@@ -32,8 +32,18 @@ Program terdiri dari 4 bahasa yakni C++, JAVA, PYTHON, dan PHP. Dimana setiap pr
 
 
 ## Dokumentasi Program dalam bahasa Python
-1. Menambah data
-  ![alt text][(https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/1%20Menambahkan%20data.png)]
+### 1. Menambah data <br>
+  ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/1%20Menambahkan%20data.png)
+### 2. Menampilkan data <br>
+ ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/1%20Menampilkan%20data.png)
+### 3. Mengubah data <br>
+ ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/2%20Mengubah%20data.png)
+### 4. Menghapus data
+ ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/3%20Menghapus%20data.png)
+### 5. Keluar dari program
+ ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/4%20Keluar%20dari%20program.png)
+
+   
 
 
 
