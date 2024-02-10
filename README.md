@@ -33,7 +33,8 @@ Program terdiri dari 4 bahasa yakni C++, JAVA, PYTHON, dan PHP. Dimana setiap pr
 
 ## Dokumentasi Program dalam bahasa Python
 1. Menambah data
-   ![alt text](?raw = true)
+  ![alt text][(https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/1%20Menambahkan%20data.png)]
+
 
 
 
