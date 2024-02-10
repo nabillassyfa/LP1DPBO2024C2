@@ -1,0 +1,24 @@
+
+#dpr {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 50%;
+} 
+
+#dpr td, #dpr th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#dpr tr:nth-child(even){background-color: #f2f2f2;}
+
+#dpr tr:hover {background-color: #ddd;}
+
+#dpr th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #10adc2;
+  color: white;
+} 
