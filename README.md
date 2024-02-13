@@ -33,17 +33,24 @@ Desain program yang terdiri dari empat bahasa pemrograman (C++, Java, Python, da
 
 ## Dokumentasi Program dalam bahasa Python
 ### 1. Menambah data <br>
-  ![alt text]()
-### 2. Menampilkan data <br>
- ![alt text]()
-### 3. Mengubah data <br>
- ![alt text]()
+  ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/Menambahkan%20data.png)
+### 2. Mengubah data <br>
+ ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/Mengupdate%20data.png)
+ ### 3. Menampilkan data <br>
+ ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/Menampilkan%20data.png)
 ### 4. Menghapus data
- ![alt text]()
+ ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/Menghapus%20data.png)
 ### 5. Keluar dari program
- ![alt text]()
+ ![alt text](https://github.com/nabillassyfa/LP1DPBO2024C2/blob/main/Python/Screenshot/Keluar%20program.png)
 
-   
+ 
+
+
+
+
+
+
+
 
 
 
